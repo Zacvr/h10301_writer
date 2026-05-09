@@ -45,7 +45,7 @@ git clone [https://github.com/Zacvr/h10301_writer.git](https://github.com/Zacvr/
 
 Navigate to the folder:
 
-cd FlipperZero-H10301-Writer
+cd h10301_writer
 
 
 Connect your Flipper and run:
