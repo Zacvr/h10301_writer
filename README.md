@@ -63,7 +63,7 @@ Firmware: Compatible with Official, Momentum, and Unleashed firmware sets.
 
 Credits
 
-Developed by Zac.
+Developed by ZacVR.
 
 Based on the standard H10301 26-bit Wiegand protocol.
 
