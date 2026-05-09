@@ -179,7 +179,7 @@ static void render_callback(Canvas* canvas, void* ctx) {
 
     canvas_clear(canvas);
     canvas_set_font(canvas, FontPrimary);
-    canvas_draw_str(canvas, 2, 11, "H10301 Writer v1.2");
+    canvas_draw_str(canvas, 2, 11, "H10301 Writer");
     
     canvas_set_font(canvas, FontSecondary);
     if(app->writing) {
