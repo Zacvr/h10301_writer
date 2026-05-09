@@ -40,7 +40,7 @@ If you have the flipperzero-ufbt toolchain installed:
 
 Clone this repository:
 
-git clone [https://github.com/Zacvr/FlipperZero-H10301-Writer.git](https://github.com/Zacvr/FlipperZero-H10301-Writer.git)
+git clone [https://github.com/Zacvr/h10301_writer.git](https://github.com/Zacvr/h10301_writer.git)
 
 
 Navigate to the folder:
